@@ -1,0 +1,12 @@
+[submodule "sshbna.github.io"]
+	path = sshbna.github.io
+	url = git@github.com:sshbna/sshbna.github.io.git
+	branch = main
+[submodule "publick"]
+	path = publick
+	url = git@github.com:sshbna/sshbna.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:sshbna/sshbna.github.io.git
+	branch = main
